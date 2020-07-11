@@ -9,7 +9,7 @@ name: Prakash Dale
 author: Prakash Dale
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Personal blog site
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/1175316?s=40&v=4
@@ -52,7 +52,7 @@ enforce_ssl: https://prakashdale.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!

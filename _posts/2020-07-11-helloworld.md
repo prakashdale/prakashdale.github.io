@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hello World
-categories: [HTML,Code]
+categories: [General]
 excerpt: Hello world
 ---
 
