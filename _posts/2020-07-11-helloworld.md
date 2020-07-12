@@ -3,7 +3,7 @@ layout: post
 title:  Hello World
 comments: true
 categories: [General, Jekyll]
-excerpt: Hello world. First blog after created this site.
+excerpt: Hello world. First blog after creation of this site.
 ---
 
 I was looking for a solution to host a personal site to tell something about my self, what I do, my interests, hobbies, job, what I learnt new today, or anything else that comes to mind. And then came across [github-pages](https://pages.github.com/). This fits perfectly with my requirement and more over it will not cost anything for hosting and maintaining the site.

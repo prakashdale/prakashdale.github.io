@@ -2,7 +2,7 @@
 layout: post
 title:  Microservices Architecture
 comments: true
-categories: [General, Microservices]
+categories: [Microservices]
 excerpt: What is Microservices?
 ---
 
