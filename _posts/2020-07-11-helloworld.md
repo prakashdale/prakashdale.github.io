@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hello World
-categories: [General]
+categories: [General, Jekyll]
 excerpt: Hello world. First blog after created this site.
 ---
 
@@ -43,6 +43,6 @@ services:
 - Run 'docker-compose up'.
 - Site will be hosted on localhost. Open browser and go to 'http://localhost:4000'
 
-Todo: I could not make 'jekyll serve --livereload' work with docker. Becuase of this, I have stop and restart docker-compose every time to see the changes made to the site. I'll look into this issue later.
+Todo: I could not make 'jekyll serve --livereload' work with docker. Becuase of this, I have stop and restart docker-compose every time to see the new changes made to the site. I'll look into this issue later.
 
 Once you are satisfied with changes, just upload the files to github repository and site will update automatically in few seconds.
