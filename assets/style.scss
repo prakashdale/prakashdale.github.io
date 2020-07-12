@@ -224,6 +224,11 @@ p > img {
   margin: 0 auto;
 }
 
+img[alt=logo] { 
+  width: 100px!important;
+  display: inline-block!important;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;

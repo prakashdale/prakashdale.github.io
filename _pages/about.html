@@ -1,0 +1,18 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+<!-- 
+ {% for file in site.static_files %}    
+    {% if file.logo %}
+        <img src="{{file.path}}" title="{{file.name}}" alt="logo" />
+    {% endif %}
+{% endfor %}  -->
+
+{% for tech in site.data.technologies %}
+    <a href="{{tech.url}}" target="_blank">
+        <img src="/assets/logo/{{tech.logo}}" title="{{tech.name}}" alt="logo" />
+    </a>
+{% endfor %}
+
