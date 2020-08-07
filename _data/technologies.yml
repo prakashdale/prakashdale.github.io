@@ -70,6 +70,10 @@
   logo: mysql.png
   url: https://www.mongodb.com/
 
+- name: OpenCV
+  logo: opencv.png
+  url: https://opencv.org/
+
 - name: Python
   logo: python.png
   url: https://www.python.org/

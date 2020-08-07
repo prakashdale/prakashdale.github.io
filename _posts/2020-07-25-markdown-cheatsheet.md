@@ -26,7 +26,7 @@ excerpt: Markdown cheat sheet. For more details, visit https://www.markdownguide
 
 **Italic**
 
-*italicized text*
+`*italicized text*`
 
 ---
 
