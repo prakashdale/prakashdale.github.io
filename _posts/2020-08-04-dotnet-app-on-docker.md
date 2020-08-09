@@ -2,7 +2,7 @@
 layout: post
 title:  Run ASP.NET Core 3.1 Apps in Docker with HTTPS.
 comments: true
-categories: [Dotnet]
+categories: [Dotnet, Docker]
 excerpt: Package your ASP.NET Core app as a Docker Image and then run your image as a Docker container with HTTPS Enabled. This includes creating a dedicated self-signed development certificate, configuring user secrets and passing in the necessary environment variables to the container to enable HTTPS. We further configure this with Docker Compose for ease of use and reuse going forward.
 
 ---

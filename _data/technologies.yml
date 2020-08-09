@@ -48,7 +48,7 @@
 
 - name: JWT
   logo: jwt.png
-  url: https://jwt.io/
+  url: /jwt/
 
 - name: Keras
   logo: keras.png
@@ -70,6 +70,10 @@
   logo: mysql.png
   url: https://www.mongodb.com/
 
+- name: Markdown
+  logo: markdown.png
+  url: https://www.markdownguide.org/
+
 - name: OpenCV
   logo: opencv.png
   url: https://opencv.org/
@@ -84,7 +88,7 @@
 
 - name: Rasa
   logo: rasa.png
-  url: https://rasa.com/
+  url: /rasa/
 
 - name: SASS
   logo: sass.png

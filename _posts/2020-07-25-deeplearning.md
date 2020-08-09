@@ -2,7 +2,7 @@
 layout: post
 title:  Deep learning using Google Colaboratory
 comments: true
-categories: [Deep Learning]
+categories: [Machine Learning]
 excerpt: Deep learning using Google Colaboratory
 ---
 
@@ -47,6 +47,20 @@ Some terminologies used in deep learning
 **softmax**: a special activation function that acts on a vector, increases the difference between largest component and all others, and also normalizes the vector to have a sum of 1 so that it can be interpreted as vector of probabilities. Used as last step in classifiers.
 
 **tensor**: A *tensor* is like a matrix but with an arbitrary number of dimensions A 1-dimensional tensor is a vector. A 2-dimensional tensor is a matrix. And then you can have tensors of 3,4,5 and more dimensions.
+
+## What is Neural Network?
+
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
+
+Neural networks can adapt to chaning input; so the network generates best possible result without needing to redesign the output criteria.
+
+Six types of Neural Networks currently being used in Machine Learning. For more details [click here](https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/)
+- Feedforward neural network
+- Radial basis function neural network
+- Kohonen self organizing neural network
+- Recurrent neural network (RNN) - Long short term memory
+- Convolutional neural network (CNN)
+- Modular neural network
 
 
 
