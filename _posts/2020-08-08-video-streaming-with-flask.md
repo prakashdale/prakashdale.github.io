@@ -3,7 +3,7 @@ layout: post
 title:  Video streaming with Flask
 comments: true
 categories: [OpenCV, Flask, Python]
-excerpt: Live streaming using Flask
+excerpt: Streaming is a technique in which the server provides response to a request in chunks. This might be useful in couple of use cases. For some applications a request may need to return data that comes from a real time source. A pretty good example of this is a real time video or audio feed. A lot of security cameras use this technique to stream video to web browser.
 ---
 
 ## What is streaming?
@@ -34,4 +34,7 @@ https://github.com/prakashdale/prakashdale.github.io/tree/master/src/video_strea
 - Run `waitress-serve --listen=*:5000 app:app`
 - Open browser and navigate to [http://localhost:5000](http://localhost:5000)
 
+## Docker
+
+I could not get it to work using docker container. Please review Dockerfile and see if you find any issue. Image builds successfully but not able to run container. Perhaps issue is with sharing webcamera of the machine with docker container.
 

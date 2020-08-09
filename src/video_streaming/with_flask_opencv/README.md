@@ -16,4 +16,6 @@
 - Run `waitress-serve --listen=*:5000 app:app`
 - Open browser and navigate to [http://localhost:5000](http://localhost:5000)
 
+## Docker
 
+I could not get it to work using docker container. Please review Dockerfile and see if you find any issue. Image builds successfully but not able to run container. Perhaps issue is with sharing webcamera of the machine with docker container.
