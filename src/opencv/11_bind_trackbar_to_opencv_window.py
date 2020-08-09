@@ -1,11 +1,5 @@
 import cv2
 import numpy as np
-# def b_channel(x):
-#     print(x)
-# def g_channel(x):
-#     print(x)
-# def r_channel(x):
-#     print(x)
 
 def onTrackbarChange(x):
     pass
