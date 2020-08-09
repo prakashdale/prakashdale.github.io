@@ -11,8 +11,6 @@ sobelY = cv2.Sobel(img, cv2.CV_64F, 0, 1)
 sobelX = np.uint8(np.absolute(sobelX))
 sobelY = np.uint8(np.absolute(sobelY))
 
-
-
 titles = ['image', 'Laplacian', 'SobelX', 'SobelY']
 images = [img, lap, sobelX, sobelY]
 

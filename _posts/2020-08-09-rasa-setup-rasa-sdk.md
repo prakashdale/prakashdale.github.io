@@ -3,7 +3,7 @@ layout: post
 title:  Setup Rasa SDK on local machine
 comments: true
 categories: [ChatBOT, Python, Rasa]
-excerpt: Python SDK for the development of custom actions for Rasa. Actions are the things your bot runs in response to user input
+excerpt: Rasa SDK for the development of custom actions for Rasa. Actions are the things your bot runs in response to user input
 ---
 
 ## About RASA

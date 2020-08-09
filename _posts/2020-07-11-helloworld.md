@@ -2,7 +2,7 @@
 layout: post
 title:  Hello World
 comments: true
-categories: [General, Jekyll]
+categories: [Jekyll]
 excerpt: Hello world. First blog after creation of this site.
 ---
 
