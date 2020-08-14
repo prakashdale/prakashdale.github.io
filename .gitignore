@@ -11,3 +11,5 @@ package.json
 *.gemspec
 .jekyll-cache
 .ipynb_checkpoints
+bin
+obj
