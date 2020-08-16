@@ -1,3 +1,7 @@
+- name: Angular
+  logo: angular.png
+  url: /angular/
+
 - name: Arduino
   logo: arduino.png
   url: https://www.arduino.cc/
@@ -73,6 +77,10 @@
 - name: Markdown
   logo: markdown.png
   url: https://www.markdownguide.org/
+
+- name: NativeScript
+  logo: nativescript.png
+  url: /nativescript/
 
 - name: OpenCV
   logo: opencv.png
