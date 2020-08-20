@@ -44,7 +44,7 @@ Adding custom components to the NLU pipeline is process of implementing the cust
 
 - Create new RASA project with `rasa init`
 - Add a new component file in the folder. You may use below template
-  <script src="https://gist-it.appspot.com/https://github.com/prakashdale/prakashdale.github.io/raw/master/src/rasa/custom_component/ducklingplug.py?footer=0"></script>
+  <script src="https://gist-it.appspot.com/https://github.com/prakashdale/prakashdale.github.io/raw/master/src/rasa/custom_component/ducklingplus.py?footer=0"></script>
 - Update *config.yml*, add compoent name in the component pipeline. e.g. `- name: "ducklingplus.DucklingPlus"` as shown below.
   <script src="https://gist-it.appspot.com/https://github.com/prakashdale/prakashdale.github.io/raw/master/src/rasa/custom_component/config.yml?footer=0"></script>
 - Add your code to *process* method to enhance your component further.
