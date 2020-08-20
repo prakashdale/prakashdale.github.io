@@ -110,6 +110,10 @@
   logo: tensorflow.png
   url: https://www.tensorflow.org/federated
 
+- name: Typescript
+  logo: typescript.png
+  url: https://www.typescriptlang.org/
+
 - name: Web API
   logo: webapi.jpg
   url: https://dotnet.microsoft.com/apps/aspnet/apis
