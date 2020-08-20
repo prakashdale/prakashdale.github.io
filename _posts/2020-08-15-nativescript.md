@@ -15,12 +15,9 @@ Combine nativescript, a framework for building native iOS and Android apps using
 
 ## Package Android and iOS libraries for use with Nativescript
 
-You can now package native iOS and Android libraries into a single nmp package and distribute it as a plugin. This post is to guide you how to create simple JAR package and embed it into a NativeScript plugin.
+You can now package native iOS and Android libraries into a single nmp package and distribute it as a plugin. [This post](https://prakashdale.github.io/nativescript-package/) is to guide you how to create simple JAR package and embed it into a NativeScript plugin.
 
 ---
-
-**Useful Links**
-
 
 **Useful links**
 
