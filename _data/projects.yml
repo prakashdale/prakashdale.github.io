@@ -1,0 +1,11 @@
+- name: anabasii
+  description: Package delivery microservice  
+
+- name: ozhakh
+  description: identity service
+
+- name: availability
+  description: Base service for resources. Other resource types service (e.g. vehicle, meeting room) can use this for time slot booking.
+
+- name: sanstha
+  description: Company microservice for company level role management.

@@ -20,3 +20,10 @@ And got opportunity to implement many at works or in some personal projects.
     </a>
 {% endfor %}
 
+<h2>Projects</h2>
+{% for project in site.data.projects %}
+<h3>{{project.name}}</h3>
+<p>{{project.description}}</p>
+{% endfor %}
+
+
