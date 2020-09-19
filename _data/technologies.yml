@@ -14,6 +14,10 @@
   logo: csharp.png
   url: https://docs.microsoft.com/en-us/dotnet/csharp/
 
+- name: Consul
+  logo: consul.png
+  url: https://www.consul.io/
+
 - name: CSS
   logo: css.jpg
   url: https://www.w3.org/Style/CSS/Overview.en.html
@@ -24,7 +28,7 @@
 
 - name: Docker
   logo: docker.png
-  url: https://www.docker.com/
+  url: /docker/
 
 - name: DotNet Core
   logo: dotnet-core.png
@@ -37,6 +41,14 @@
 - name: Ethereum
   logo: ethereum.png
   url: https://ethereum.org/en/
+
+- name: Fabio
+  logo: fabio.png
+  url: https://fabiolb.net/
+
+- name: gRPC
+  logo: grpc.png
+  url: /grpc/
 
 - name: HTML5
   logo: html5.png
@@ -82,6 +94,14 @@
   logo: nativescript.png
   url: /nativescript/
 
+- name: Nginx
+  logo: nginx.png
+  url: /nginx/
+
+- name: Ocelot
+  logo: ocelot.png
+  url: /ocelot/
+
 - name: OpenCV
   logo: opencv.png
   url: https://opencv.org/
@@ -90,6 +110,10 @@
   logo: python.png
   url: https://www.python.org/
 
+- name: Travis-CI
+  logo: travisci.png
+  url: https://travis-ci.com/
+
 - name: RabbitMQ
   logo: rabbitmq.png
   url: https://www.rabbitmq.com/
@@ -97,6 +121,10 @@
 - name: Rasa
   logo: rasa.png
   url: /rasa/
+
+- name: Redis
+  logo: redis.png
+  url: /redis/
 
 - name: SASS
   logo: sass.png
