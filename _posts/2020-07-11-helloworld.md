@@ -46,5 +46,11 @@ services:
 
 Todo: I could not make 'jekyll serve --livereload' work with docker. Becuase of this, I have stop and restart docker-compose every time to see the new changes made to the site. I'll look into this issue later.
 
+Workaround
+- Rename any file to something and rename it back to the original name triggers *jekyll* build.
+- Execute *jekyll build* command in the docker container as below\
+  `docker exec -it prakashdalegithubio_jekyll-serve_1 /bin/bash` to start shell in interactive mode\
+  `jekyll build` to build the site.
+
 Once you are satisfied with changes, just upload the files to github repository and site will update automatically in few seconds.
 
