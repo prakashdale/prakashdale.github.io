@@ -66,13 +66,17 @@
   logo: jwt.png
   url: /jwt/
 
+- name: K8S
+  logo: kubernetes.png
+  url: https://kubernetes.io/
+
 - name: Keras
   logo: keras.png
   url: https://keras.io/
 
-- name: K8S
-  logo: kubernetes.png
-  url: https://kubernetes.io/
+- name: Kotlin
+  logo: kotlin.png
+  url: https://kotlinlang.org/
 
 - name: LORA
   logo: lora.jpg
