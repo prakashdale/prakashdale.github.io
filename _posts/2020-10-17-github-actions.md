@@ -3,8 +3,8 @@ layout: post
 title:  Github Actions
 comments: true
 categories: [Devops, Github, Docker]
-permalink: /web-server/
-excerpt: Github actions
+permalink: /github-actions/
+excerpt: Github Actions enables you to create custom software development lifecycle workflows directly in your Github repository. These workflows are made out of different tasks so-called actions that can be run automatically on certain events.
 ---
 
 - What is Github Actions?
