@@ -56,5 +56,7 @@ A step is a set of tasks that can be executed by a job. Steps can run commands o
 
 A Workflow is an automated process that is made up of one or multiple jobs and can be triggered by an event. Workflows are defined using a YAML file in the .github/workflows directory.
 
+### K8stest project
 
+<script src="https://gist-it.appspot.com/https://github.com/prakashdale/k8stest/raw/master/.github/workflows/dotnet-core.yml?footer=0"></script>
 
