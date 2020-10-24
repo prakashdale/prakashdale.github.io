@@ -111,6 +111,12 @@ smtpd_helo_restrictions =
     permit_mynetworks,
     permit_sasl_authenticated,
     reject_invalid_helo_hostname,
-    reject_
+    reject_non_fqdn_helo_hostname,
+    reject_unknown_helo_hostname,
+    check_helo_access hash:/etc/postfix/helo_access
 ```
 
+
+`sudo apt install certbot`
+
+`sudo certbot certonly --standalone -d mail.morayaa.com`

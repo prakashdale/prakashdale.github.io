@@ -3,7 +3,7 @@ layout: post
 title:  Microservices.Net Fundamentals
 comments: true
 categories: [Dotnet, C#, Microservices]
-excerpt: Microservices fundamentals
+excerpt: A comprehensive introduction into the modern microservices architecture based on the most popular technologies such as .NET Core, Docker, Kubernetes, Istio Service Mesh and many more.
 ---
 ## What is Microservice?
 
@@ -29,5 +29,14 @@ How to avoid the distributed monolith?
 What’s the modular monolith all about? 
 
 What are modules and how can they communicate with each other? Will the modular monolith help avoiding the distributed monolith trap?
+
+```
+mkdir snatch-dev
+cd snatch-dev
+git clone https://github.com/snatch-dev/Convey.git
+cd Convey/
+dotnet restore
+
+```
 
 
